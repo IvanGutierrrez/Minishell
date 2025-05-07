@@ -16,3 +16,8 @@ Este proyecto se llevo a cabo en la asignatura Sistemas Operativos, y consiste e
 exit
 ```
 o pulse control + D repetidamente
+
+# Colaboradores
+
+- Arturo Enrique Gutiérrez Mirandona
+- Iván Gutiérrez González
